@@ -2,6 +2,7 @@
 NLPFinal
 Stock prediction based on social network sentiment
 Natual Language Processing Spring 2017
+This project implemented a sentiment analyzer and a stock predictor. The project provides a way to predict stock trend (rise/fall) based on the posts collected from social network. Experiment shows the prediction are indeed better than arbitrary guessing. 
 
 XL - YJ
 
